@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Davey997
-- 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Machine Learning and Neural Networks
-- 💞️ I’m looking to collaborate as a Machine Learning Engineer or Data Scientist as well
+- 👀 I’m interested in Computer Vision, NLP, DL and Robotics
+- 🌱 I’m currently on my second year of my Master's in AI 
+- 💞️ I’m looking forward to gain more hands-on experience
 - 📫 You can reach me at davidedelmiro@gmail.com
 
 <!---
