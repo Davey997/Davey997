@@ -1,6 +1,6 @@
 - Hi, I’m @Davey997
-- I’m interested in Computer Vision and NLP
-- I’m currently on my second year of my Master's in AI 
+- I’m interested in Computer Vision, NLP and Data Science
+- Currently on my second year of my Master's in AI 
 - I’m looking forward to gain more hands-on experience
 - You can reach me at davidedelmiro@gmail.com
 
